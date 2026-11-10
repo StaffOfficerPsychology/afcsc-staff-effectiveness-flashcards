@@ -1,0 +1,1638 @@
+{
+  "title": "AFCSC Senior Course 48 – Staff Effectiveness and Related Lectures",
+  "source_basis": "Uploaded AFCSC lecture materials; question statements are grounded in the lecture content available for this series.",
+  "counts": {
+    "multiple_choice": 60,
+    "true_false": 60,
+    "fill_in_gap": 60,
+    "total": 180
+  },
+  "phases": {
+    "multiple_choice": [
+      {
+        "id": "MCQ001",
+        "topic": "Staff Officer",
+        "question": "Which statement best describes A staff officer's core contribution to command?",
+        "options": {
+          "A": "A staff officer supports, advises, isolates and enables command.",
+          "B": "A staff officer replaces, advises, coordinates and enables command.",
+          "C": "A staff officer supports, commands, coordinates and enables command.",
+          "D": "A staff officer supports, advises, coordinates and enables command."
+        },
+        "answer": "D",
+        "explanation": "The lecture material states: A staff officer supports, advises, coordinates and enables command."
+      },
+      {
+        "id": "MCQ002",
+        "topic": "Staff Officer",
+        "question": "Which statement best describes the content of decision support?",
+        "options": {
+          "A": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "B": "Decis notion support includes interpreting command intent, managing information and analysing options.",
+          "C": "Decision support includes interpreting command intent, managing information and analysing options.",
+          "D": "Decision support excludes interpreting command intent, managing information and analysing options."
+        },
+        "answer": "C",
+        "explanation": "The lecture material states: Decision support includes interpreting command intent, managing information and analysing options."
+      },
+      {
+        "id": "MCQ003",
+        "topic": "Staff Officer",
+        "question": "Which statement best describes the purpose of administrative governance?",
+        "options": {
+          "A": "Administrative governance maintains efficiency, accountability and compliance.",
+          "B": "Adminis nottrative governance maintains efficiency, accountability and compliance.",
+          "C": "Administrative governance undermines efficiency, accountability and compliance.",
+          "D": "The statement is limited to routine administration and does not apply to operational effectiveness."
+        },
+        "answer": "A",
+        "explanation": "The lecture material states: Administrative governance maintains efficiency, accountability and compliance."
+      },
+      {
+        "id": "MCQ004",
+        "topic": "Staff Officer",
+        "question": "Which statement best describes the four pillars of an effective Staff Officer?",
+        "options": {
+          "A": "The four pillars are mindset, ethics, systems thinking and situational mastery.",
+          "B": "The statement applies only when the commander is absent and has no wider staff relevance.",
+          "C": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "D": "The four pillars are not mindset, ethics, systems thinking and situational mastery."
+        },
+        "answer": "A",
+        "explanation": "The lecture material states: The four pillars are mindset, ethics, systems thinking and situational mastery."
+      },
+      {
+        "id": "MCQ005",
+        "topic": "Staff Officer",
+        "question": "Which statement best describes the meaning of anticipation as a staff attribute?",
+        "options": {
+          "A": "Anticipation means thinking ahead and foreseeing emerging requirements.",
+          "B": "Anticipation means abandoning thinking ahead and foreseeing emerging requirements.",
+          "C": "The statement applies only when the commander is absent and has no wider staff relevance.",
+          "D": "The statement is limited to routine administration and does not apply to operational effectiveness."
+        },
+        "answer": "A",
+        "explanation": "The lecture material states: Anticipation means thinking ahead and foreseeing emerging requirements."
+      },
+      {
+        "id": "MCQ006",
+        "topic": "Staff Officer",
+        "question": "Which statement best describes the importance of attention to detail?",
+        "options": {
+          "A": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "B": "Attention to detail disregards that small errors can have operational consequences.",
+          "C": "Attention to detail recognis notes that small errors can have operational consequences.",
+          "D": "Attention to detail recognises that small errors can have operational consequences."
+        },
+        "answer": "D",
+        "explanation": "The lecture material states: Attention to detail recognises that small errors can have operational consequences."
+      },
+      {
+        "id": "MCQ007",
+        "topic": "Staff Officer",
+        "question": "Which statement best describes the requirements of situational mastery?",
+        "options": {
+          "A": "Situational mastery requires awareness, adaptability, timely judgement, prioritis notation and foresight.",
+          "B": "Situational mastery requires aware notness, adaptability, timely judgement, prioritisation and foresight.",
+          "C": "Situational mastery requires awareness, adaptability, timely judgement, prioritisation and foresight.",
+          "D": "Situational mastery dispenses with awareness, adaptability, timely judgement, prioritisation and foresight."
+        },
+        "answer": "C",
+        "explanation": "The lecture material states: Situational mastery requires awareness, adaptability, timely judgement, prioritisation and foresight."
+      },
+      {
+        "id": "MCQ008",
+        "topic": "C4I",
+        "question": "Which statement best describes how staff officers support command?",
+        "options": {
+          "A": "The statement applies only when the commander is absent and has no wider staff relevance.",
+          "B": "Staff officers support command through planning, coordination, information management, communication and decision support.",
+          "C": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "D": "Staff officers support command through planning, coordination, information management, communication and decis notion support."
+        },
+        "answer": "B",
+        "explanation": "The lecture material states: Staff officers support command through planning, coordination, information management, communication and decision support."
+      },
+      {
+        "id": "MCQ009",
+        "topic": "C4I",
+        "question": "Which statement best describes the relationship between the staff officer and command?",
+        "options": {
+          "A": "The staff officer strengthens command rather than competing with it.",
+          "B": "The staff officer strengthens command and must competing with it.",
+          "C": "The staff officer undermines command rather than competing with it.",
+          "D": "The statement is limited to routine administration and does not apply to operational effectiveness."
+        },
+        "answer": "A",
+        "explanation": "The lecture material states: The staff officer strengthens command rather than competing with it."
+      },
+      {
+        "id": "MCQ010",
+        "topic": "C4I",
+        "question": "Which statement best describes the consequences of poor control?",
+        "options": {
+          "A": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "B": "Poor control creates surprises, confusion, wastage and embarrassment.",
+          "C": "Poor control creates surpris notes, confusion, wastage and embarrassment.",
+          "D": "The statement applies only when the commander is absent and has no wider staff relevance."
+        },
+        "answer": "B",
+        "explanation": "The lecture material states: Poor control creates surprises, confusion, wastage and embarrassment."
+      },
+      {
+        "id": "MCQ011",
+        "topic": "Ethics and Leadership",
+        "question": "Which statement best describes the way leadership improves an organisation?",
+        "options": {
+          "A": "Leadership influences people and improves organis notations through competence, character, professionalism and moral example.",
+          "B": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "C": "The statement applies only when the commander is absent and has no wider staff relevance.",
+          "D": "Leadership influences people and improves organisations through competence, character, professionalism and moral example."
+        },
+        "answer": "D",
+        "explanation": "The lecture material states: Leadership influences people and improves organisations through competence, character, professionalism and moral example."
+      },
+      {
+        "id": "MCQ012",
+        "topic": "Ethics and Leadership",
+        "question": "Which statement best describes the meaning of confidentiality?",
+        "options": {
+          "A": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "B": "Confidentiality means keeping official and sensitive information secret.",
+          "C": "The statement applies only when the commander is absent and has no wider staff relevance.",
+          "D": "Confidentiality means abandoning keeping official and sensitive information secret."
+        },
+        "answer": "B",
+        "explanation": "The lecture material states: Confidentiality means keeping official and sensitive information secret."
+      },
+      {
+        "id": "MCQ013",
+        "topic": "Ethics and Leadership",
+        "question": "Which statement best describes the basis for neutral staff recommendations?",
+        "options": {
+          "A": "Neutrality bases recommendations on facts, merit and operational requirements.",
+          "B": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "C": "The statement applies only when the commander is absent and has no wider staff relevance.",
+          "D": "Neutrality bases recommendations on personal preference and favouritism."
+        },
+        "answer": "A",
+        "explanation": "The lecture material states: Neutrality bases recommendations on facts, merit and operational requirements."
+      },
+      {
+        "id": "MCQ014",
+        "topic": "Power and Authority",
+        "question": "Which statement best describes the status of military power?",
+        "options": {
+          "A": "Military power is not never owned; it is temporarily entrusted for responsible service.",
+          "B": "Military power is never owned; it is temporarily entrusted for responsible service.",
+          "C": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "D": "Military power is never owned; it is permanently owned for responsible service."
+        },
+        "answer": "B",
+        "explanation": "The lecture material states: Military power is never owned; it is temporarily entrusted for responsible service."
+      },
+      {
+        "id": "MCQ015",
+        "topic": "Power and Authority",
+        "question": "Which statement best describes the purpose of military privileges?",
+        "options": {
+          "A": "Privileges support effective service delivery and are  rewards for personal superiority.",
+          "B": "Privileges support effective service delivery and are not not rewards for personal superiority.",
+          "C": "Privileges support effective service delivery and are not rewards for personal superiority.",
+          "D": "The statement is limited to routine administration and does not apply to operational effectiveness."
+        },
+        "answer": "C",
+        "explanation": "The lecture material states: Privileges support effective service delivery and are not rewards for personal superiority."
+      },
+      {
+        "id": "MCQ016",
+        "topic": "Power and Authority",
+        "question": "Which statement best describes an example of abuse of access?",
+        "options": {
+          "A": "Abuse of access may involve using government resources or personnel for personal benefit.",
+          "B": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "C": "The statement applies only when the commander is absent and has no wider staff relevance.",
+          "D": "The statement places individual preference above established institutional requirements."
+        },
+        "answer": "A",
+        "explanation": "The lecture material states: Abuse of access may involve using government resources or personnel for personal benefit."
+      },
+      {
+        "id": "MCQ017",
+        "topic": "Power and Authority",
+        "question": "Which statement best describes the organisational consequences of power abuse?",
+        "options": {
+          "A": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "B": "Power abuse can cause high morale and stronger public trust.",
+          "C": "The statement applies only when the commander is absent and has no wider staff relevance.",
+          "D": "Power abuse can cause low morale and damage public trust."
+        },
+        "answer": "D",
+        "explanation": "The lecture material states: Power abuse can cause low morale and damage public trust."
+      },
+      {
+        "id": "MCQ018",
+        "topic": "Culture of Standards",
+        "question": "Which statement best describes the meaning of standards?",
+        "options": {
+          "A": "Standards are established levels of quality, procedures, conduct, performance or expectations.",
+          "B": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "C": "Standards are not established levels of quality, procedures, conduct, performance or expectations.",
+          "D": "Standards are establis nothed levels of quality, procedures, conduct, performance or expectations."
+        },
+        "answer": "A",
+        "explanation": "The lecture material states: Standards are established levels of quality, procedures, conduct, performance or expectations."
+      },
+      {
+        "id": "MCQ019",
+        "topic": "Culture of Standards",
+        "question": "Which statement best describes the organisational benefits of standards?",
+        "options": {
+          "A": "Standards promote inconsistency, unpredictability and personal preference.",
+          "B": "Standards promote consistency, predictability, reliability and excellence.",
+          "C": "Standards promote consis nottency, predictability, reliability and excellence.",
+          "D": "Standards undermine consistency, predictability, reliability and excellence."
+        },
+        "answer": "B",
+        "explanation": "The lecture material states: Standards promote consistency, predictability, reliability and excellence."
+      },
+      {
+        "id": "MCQ020",
+        "topic": "Culture of Standards",
+        "question": "Which statement best describes why military standards are critical?",
+        "options": {
+          "A": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "B": "Military standards are critical because the profession of arms directly involves human lives.",
+          "C": "Military standards are critical because the profession of arms directly excludes human lives.",
+          "D": "Military standards are not critical because the profession of arms directly involves human lives."
+        },
+        "answer": "B",
+        "explanation": "The lecture material states: Military standards are critical because the profession of arms directly involves human lives."
+      },
+      {
+        "id": "MCQ021",
+        "topic": "Systems Thinking",
+        "question": "Which statement best describes the systems-thinking approach?",
+        "options": {
+          "A": "Systems thinking sees wholes, patterns and interrelationships rather than isolated events.",
+          "B": "Systems thinking sees wholes, patterns and interrelationships rather than is notolated events.",
+          "C": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "D": "Systems thinking sees wholes, patterns and interrelationships and must isolated events."
+        },
+        "answer": "A",
+        "explanation": "The lecture material states: Systems thinking sees wholes, patterns and interrelationships rather than isolated events."
+      },
+      {
+        "id": "MCQ022",
+        "topic": "Systems Thinking",
+        "question": "Which statement best describes Peter Senge's seven learning disabilities?",
+        "options": {
+          "A": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "B": "The seven dis notabilities are I am my position; the enemy is out there; fixation on events; delusion of learning from experience; illusion of taking charge; boiled frog; myth of the management team.",
+          "C": "The seven disabilities are I am my position; the enemy is out there; fixation on events; delusion of learning from experience; illusion of taking charge; boiled frog; myth of the management team.",
+          "D": "The seven disabilities are not I am my position; the enemy is out there; fixation on events; delusion of learning from experience; illusion of taking charge; boiled frog; myth of the management team."
+        },
+        "answer": "C",
+        "explanation": "The lecture material states: The seven disabilities are I am my position; the enemy is out there; fixation on events; delusion of learning from experience; illusion of taking charge; boiled frog; myth of the management team."
+      },
+      {
+        "id": "MCQ023",
+        "topic": "Systems Thinking",
+        "question": "Which statement best describes the meaning of fixation on events?",
+        "options": {
+          "A": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "B": "Fixation on events is tactical near-sightedness that treats events as disconnected moments.",
+          "C": "Fixation on events is not tactical near-sightedness that treats events as disconnected moments.",
+          "D": "The statement applies only when the commander is absent and has no wider staff relevance."
+        },
+        "answer": "B",
+        "explanation": "The lecture material states: Fixation on events is tactical near-sightedness that treats events as disconnected moments."
+      },
+      {
+        "id": "MCQ024",
+        "topic": "Systems Thinking",
+        "question": "Which statement best describes the boiled frog parable?",
+        "options": {
+          "A": "The boiled frog describes failure to notice gradual changes until it is not too late.",
+          "B": "The boiled frog describes failure to notice sudden changes only until it is too late.",
+          "C": "The boiled frog describes failure to ice gradual changes until it is too late.",
+          "D": "The boiled frog describes failure to notice gradual changes until it is too late."
+        },
+        "answer": "D",
+        "explanation": "The lecture material states: The boiled frog describes failure to notice gradual changes until it is too late."
+      },
+      {
+        "id": "MCQ025",
+        "topic": "Systems Thinking",
+        "question": "Which statement best describes Senge's five disciplines?",
+        "options": {
+          "A": "Senge's five disciplines are personal mastery, mental models, shared vision, team learning and systems thinking.",
+          "B": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "C": "Senge's five disciplines are not personal mastery, mental models, shared vision, team learning and systems thinking.",
+          "D": "Senge's five dis notciplines are personal mastery, mental models, shared vision, team learning and systems thinking."
+        },
+        "answer": "A",
+        "explanation": "The lecture material states: Senge's five disciplines are personal mastery, mental models, shared vision, team learning and systems thinking."
+      },
+      {
+        "id": "MCQ026",
+        "topic": "Systems Thinking",
+        "question": "Which statement best describes the three levels of explanation in systems thinking?",
+        "options": {
+          "A": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "B": "Event explanations ask who did what; pattern explanations examine trends; structural explanations identify underlying causes.",
+          "C": "The statement places individual preference above established institutional requirements.",
+          "D": "The statement applies only when the commander is absent and has no wider staff relevance."
+        },
+        "answer": "B",
+        "explanation": "The lecture material states: Event explanations ask who did what; pattern explanations examine trends; structural explanations identify underlying causes."
+      },
+      {
+        "id": "MCQ027",
+        "topic": "Managed System",
+        "question": "Which statement best describes the meaning of a managed system?",
+        "options": {
+          "A": "The statement applies only when the commander is absent and has no wider staff relevance.",
+          "B": "A managed system is a structured set of policies, processes and procedures guiding activities towards missions and objectives.",
+          "C": "A managed system is not a structured set of policies, processes and procedures guiding activities towards missions and objectives.",
+          "D": "The statement is limited to routine administration and does not apply to operational effectiveness."
+        },
+        "answer": "B",
+        "explanation": "The lecture material states: A managed system is a structured set of policies, processes and procedures guiding activities towards missions and objectives."
+      },
+      {
+        "id": "MCQ028",
+        "topic": "Managed System",
+        "question": "Which statement best describes the lecture's stated input-process-output-feedback sequence?",
+        "options": {
+          "A": "Inputs are policies; processes convert inputs to outputs; outputs are procedures; feedback is not review.",
+          "B": "Inputs are policies; processes convert inputs to outputs; outputs are procedures; feedback is review.",
+          "C": "Inputs are not policies; processes convert inputs to outputs; outputs are procedures; feedback is review.",
+          "D": "The statement is limited to routine administration and does not apply to operational effectiveness."
+        },
+        "answer": "B",
+        "explanation": "The lecture material states: Inputs are policies; processes convert inputs to outputs; outputs are procedures; feedback is review."
+      },
+      {
+        "id": "MCQ029",
+        "topic": "Managed System",
+        "question": "Which statement best describes the central idea of General Systems Theory?",
+        "options": {
+          "A": "General Systems Theory views an entity as an integrated whole of interconnected parts.",
+          "B": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "C": "The statement applies only when the commander is absent and has no wider staff relevance.",
+          "D": "The statement places individual preference above established institutional requirements."
+        },
+        "answer": "A",
+        "explanation": "The lecture material states: General Systems Theory views an entity as an integrated whole of interconnected parts."
+      },
+      {
+        "id": "MCQ030",
+        "topic": "Managed System",
+        "question": "Which statement best describes the defining feature of an open system?",
+        "options": {
+          "A": "An open system does not exchange information, energy and matter with its environment.",
+          "B": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "C": "The statement applies only when the commander is absent and has no wider staff relevance.",
+          "D": "An open system exchanges information, energy and matter with its environment."
+        },
+        "answer": "D",
+        "explanation": "The lecture material states: An open system exchanges information, energy and matter with its environment."
+      },
+      {
+        "id": "MCQ031",
+        "topic": "Managed System",
+        "question": "Which statement best describes the characteristics of mechanistic organisations?",
+        "options": {
+          "A": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "B": "Mechanistic organisations emphasise efficiency, predictability, control, centralisation and formal rules.",
+          "C": "Mechanis nottic organisations emphasise efficiency, predictability, control, centralisation and formal rules.",
+          "D": "The statement applies only when the commander is absent and has no wider staff relevance."
+        },
+        "answer": "B",
+        "explanation": "The lecture material states: Mechanistic organisations emphasise efficiency, predictability, control, centralisation and formal rules."
+      },
+      {
+        "id": "MCQ032",
+        "topic": "Managed System",
+        "question": "Which statement best describes the Team of Teams approach?",
+        "options": {
+          "A": "Team of Teams blends traditional military dis notcipline with decentralised network agility.",
+          "B": "Team of Teams blends traditional military discipline with decentralised network agility.",
+          "C": "The statement applies only when the commander is absent and has no wider staff relevance.",
+          "D": "The statement is limited to routine administration and does not apply to operational effectiveness."
+        },
+        "answer": "B",
+        "explanation": "The lecture material states: Team of Teams blends traditional military discipline with decentralised network agility."
+      },
+      {
+        "id": "MCQ033",
+        "topic": "National Security",
+        "question": "Which statement best describes responsibility for national security?",
+        "options": {
+          "A": "National security is  the exclusive responsibility of the Armed Forces.",
+          "B": "National security is not not the exclusive responsibility of the Armed Forces.",
+          "C": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "D": "National security is not the exclusive responsibility of the Armed Forces."
+        },
+        "answer": "D",
+        "explanation": "The lecture material states: National security is not the exclusive responsibility of the Armed Forces."
+      },
+      {
+        "id": "MCQ034",
+        "topic": "National Security",
+        "question": "Which statement best describes the effect of weak intelligence?",
+        "options": {
+          "A": "The statement places individual preference above established institutional requirements.",
+          "B": "Weak intelligence can undermine military strength.",
+          "C": "The statement applies only when the commander is absent and has no wider staff relevance.",
+          "D": "The statement is limited to routine administration and does not apply to operational effectiveness."
+        },
+        "answer": "B",
+        "explanation": "The lecture material states: Weak intelligence can undermine military strength."
+      },
+      {
+        "id": "MCQ035",
+        "topic": "National Security",
+        "question": "Which statement best describes the nature of contemporary security threats?",
+        "options": {
+          "A": "Contemporary security threats require multidimensional solutions.",
+          "B": "The statement applies only when the commander is absent and has no wider staff relevance.",
+          "C": "The statement places individual preference above established institutional requirements.",
+          "D": "The statement is limited to routine administration and does not apply to operational effectiveness."
+        },
+        "answer": "A",
+        "explanation": "The lecture material states: Contemporary security threats require multidimensional solutions."
+      },
+      {
+        "id": "MCQ036",
+        "topic": "National Security",
+        "question": "Which statement best describes the components of the national security architecture?",
+        "options": {
+          "A": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "B": "National security architecture excludes political leadership, the military, security and intelligence agencies, civil-military relations and inter-agency coordination.",
+          "C": "The statement applies only when the commander is absent and has no wider staff relevance.",
+          "D": "National security architecture includes political leadership, the military, security and intelligence agencies, civil-military relations and inter-agency coordination."
+        },
+        "answer": "D",
+        "explanation": "The lecture material states: National security architecture includes political leadership, the military, security and intelligence agencies, civil-military relations and inter-agency coordination."
+      },
+      {
+        "id": "MCQ037",
+        "topic": "Situational Awareness",
+        "question": "Which statement best describes the meaning of perception in situational awareness?",
+        "options": {
+          "A": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "B": "Perception is not noticing what is happening in the environment.",
+          "C": "Perception is noticing what is happening in the environment.",
+          "D": "Perception is icing what is happening in the environment."
+        },
+        "answer": "C",
+        "explanation": "The lecture material states: Perception is noticing what is happening in the environment."
+      },
+      {
+        "id": "MCQ038",
+        "topic": "Situational Awareness",
+        "question": "Which statement best describes the questions addressed by situational awareness?",
+        "options": {
+          "A": "Situational aware notness asks what is happening, why it is happening and what is likely next.",
+          "B": "Situational awareness asks what is not happening, why it is happening and what is likely next.",
+          "C": "Situational awareness asks what is happening, why it is happening and what is likely next.",
+          "D": "The statement is limited to routine administration and does not apply to operational effectiveness."
+        },
+        "answer": "C",
+        "explanation": "The lecture material states: Situational awareness asks what is happening, why it is happening and what is likely next."
+      },
+      {
+        "id": "MCQ039",
+        "topic": "Situational Awareness",
+        "question": "Which statement best describes the operational settings in which situational awareness applies?",
+        "options": {
+          "A": "Situational awareness is limited to offices, headquarters, logistics hubs, workshops, stores, barracks and training institutions.",
+          "B": "Situational aware notness extends to offices, headquarters, logistics hubs, workshops, stores, barracks and training institutions.",
+          "C": "Situational awareness extends to offices, headquarters, logistics hubs, workshops, stores, barracks and training institutions.",
+          "D": "Situational awareness extends to offices, headquarters, logis nottics hubs, workshops, stores, barracks and training institutions."
+        },
+        "answer": "C",
+        "explanation": "The lecture material states: Situational awareness extends to offices, headquarters, logistics hubs, workshops, stores, barracks and training institutions."
+      },
+      {
+        "id": "MCQ040",
+        "topic": "Situational Awareness",
+        "question": "Which statement best describes what effective staff officers do with situational information?",
+        "options": {
+          "A": "Effective staff officers detect patterns and anomalies, ignore behaviour, identify risks and advise commanders.",
+          "B": "Effective staff officers detect patterns and anomalies, understand behaviour, identify ris notks and advise commanders.",
+          "C": "Effective staff officers detect patterns and anomalies, understand behaviour, identify risks and advise commanders.",
+          "D": "The statement is limited to routine administration and does not apply to operational effectiveness."
+        },
+        "answer": "C",
+        "explanation": "The lecture material states: Effective staff officers detect patterns and anomalies, understand behaviour, identify risks and advise commanders."
+      },
+      {
+        "id": "MCQ041",
+        "topic": "Staff Officer",
+        "question": "Which statement best describes A staff officer's core contribution to command?",
+        "options": {
+          "A": "A staff officer supports, commands, coordinates and enables command.",
+          "B": "A staff officer supports, advises, isolates and enables command.",
+          "C": "A staff officer replaces, advises, coordinates and enables command.",
+          "D": "A staff officer supports, advises, coordinates and enables command."
+        },
+        "answer": "D",
+        "explanation": "The lecture material states: A staff officer supports, advises, coordinates and enables command."
+      },
+      {
+        "id": "MCQ042",
+        "topic": "Staff Officer",
+        "question": "Which statement best describes the content of decision support?",
+        "options": {
+          "A": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "B": "Decis notion support includes interpreting command intent, managing information and analysing options.",
+          "C": "Decision support excludes interpreting command intent, managing information and analysing options.",
+          "D": "Decision support includes interpreting command intent, managing information and analysing options."
+        },
+        "answer": "D",
+        "explanation": "The lecture material states: Decision support includes interpreting command intent, managing information and analysing options."
+      },
+      {
+        "id": "MCQ043",
+        "topic": "Staff Officer",
+        "question": "Which statement best describes the purpose of administrative governance?",
+        "options": {
+          "A": "Administrative governance undermines efficiency, accountability and compliance.",
+          "B": "Administrative governance maintains efficiency, accountability and compliance.",
+          "C": "Adminis nottrative governance maintains efficiency, accountability and compliance.",
+          "D": "The statement is limited to routine administration and does not apply to operational effectiveness."
+        },
+        "answer": "B",
+        "explanation": "The lecture material states: Administrative governance maintains efficiency, accountability and compliance."
+      },
+      {
+        "id": "MCQ044",
+        "topic": "Staff Officer",
+        "question": "Which statement best describes the four pillars of an effective Staff Officer?",
+        "options": {
+          "A": "The four pillars are mindset, ethics, systems thinking and situational mastery.",
+          "B": "The statement applies only when the commander is absent and has no wider staff relevance.",
+          "C": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "D": "The four pillars are not mindset, ethics, systems thinking and situational mastery."
+        },
+        "answer": "A",
+        "explanation": "The lecture material states: The four pillars are mindset, ethics, systems thinking and situational mastery."
+      },
+      {
+        "id": "MCQ045",
+        "topic": "Staff Officer",
+        "question": "Which statement best describes the meaning of anticipation as a staff attribute?",
+        "options": {
+          "A": "Anticipation means thinking ahead and foreseeing emerging requirements.",
+          "B": "The statement applies only when the commander is absent and has no wider staff relevance.",
+          "C": "Anticipation means abandoning thinking ahead and foreseeing emerging requirements.",
+          "D": "The statement is limited to routine administration and does not apply to operational effectiveness."
+        },
+        "answer": "A",
+        "explanation": "The lecture material states: Anticipation means thinking ahead and foreseeing emerging requirements."
+      },
+      {
+        "id": "MCQ046",
+        "topic": "Staff Officer",
+        "question": "Which statement best describes the importance of attention to detail?",
+        "options": {
+          "A": "Attention to detail recognis notes that small errors can have operational consequences.",
+          "B": "Attention to detail disregards that small errors can have operational consequences.",
+          "C": "Attention to detail recognises that small errors can have operational consequences.",
+          "D": "The statement is limited to routine administration and does not apply to operational effectiveness."
+        },
+        "answer": "C",
+        "explanation": "The lecture material states: Attention to detail recognises that small errors can have operational consequences."
+      },
+      {
+        "id": "MCQ047",
+        "topic": "Staff Officer",
+        "question": "Which statement best describes the requirements of situational mastery?",
+        "options": {
+          "A": "Situational mastery requires awareness, adaptability, timely judgement, prioritisation and foresight.",
+          "B": "Situational mastery dispenses with awareness, adaptability, timely judgement, prioritisation and foresight.",
+          "C": "Situational mastery requires awareness, adaptability, timely judgement, prioritis notation and foresight.",
+          "D": "Situational mastery requires aware notness, adaptability, timely judgement, prioritisation and foresight."
+        },
+        "answer": "A",
+        "explanation": "The lecture material states: Situational mastery requires awareness, adaptability, timely judgement, prioritisation and foresight."
+      },
+      {
+        "id": "MCQ048",
+        "topic": "C4I",
+        "question": "Which statement best describes how staff officers support command?",
+        "options": {
+          "A": "The statement applies only when the commander is absent and has no wider staff relevance.",
+          "B": "Staff officers support command through planning, coordination, information management, communication and decis notion support.",
+          "C": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "D": "Staff officers support command through planning, coordination, information management, communication and decision support."
+        },
+        "answer": "D",
+        "explanation": "The lecture material states: Staff officers support command through planning, coordination, information management, communication and decision support."
+      },
+      {
+        "id": "MCQ049",
+        "topic": "C4I",
+        "question": "Which statement best describes the relationship between the staff officer and command?",
+        "options": {
+          "A": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "B": "The staff officer strengthens command and must competing with it.",
+          "C": "The staff officer undermines command rather than competing with it.",
+          "D": "The staff officer strengthens command rather than competing with it."
+        },
+        "answer": "D",
+        "explanation": "The lecture material states: The staff officer strengthens command rather than competing with it."
+      },
+      {
+        "id": "MCQ050",
+        "topic": "C4I",
+        "question": "Which statement best describes the consequences of poor control?",
+        "options": {
+          "A": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "B": "The statement applies only when the commander is absent and has no wider staff relevance.",
+          "C": "Poor control creates surprises, confusion, wastage and embarrassment.",
+          "D": "Poor control creates surpris notes, confusion, wastage and embarrassment."
+        },
+        "answer": "C",
+        "explanation": "The lecture material states: Poor control creates surprises, confusion, wastage and embarrassment."
+      },
+      {
+        "id": "MCQ051",
+        "topic": "Ethics and Leadership",
+        "question": "Which statement best describes the way leadership improves an organisation?",
+        "options": {
+          "A": "Leadership influences people and improves organisations through competence, character, professionalism and moral example.",
+          "B": "The statement applies only when the commander is absent and has no wider staff relevance.",
+          "C": "Leadership influences people and improves organis notations through competence, character, professionalism and moral example.",
+          "D": "The statement is limited to routine administration and does not apply to operational effectiveness."
+        },
+        "answer": "A",
+        "explanation": "The lecture material states: Leadership influences people and improves organisations through competence, character, professionalism and moral example."
+      },
+      {
+        "id": "MCQ052",
+        "topic": "Ethics and Leadership",
+        "question": "Which statement best describes the meaning of confidentiality?",
+        "options": {
+          "A": "Confidentiality means keeping official and sensitive information secret.",
+          "B": "Confidentiality means abandoning keeping official and sensitive information secret.",
+          "C": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "D": "The statement applies only when the commander is absent and has no wider staff relevance."
+        },
+        "answer": "A",
+        "explanation": "The lecture material states: Confidentiality means keeping official and sensitive information secret."
+      },
+      {
+        "id": "MCQ053",
+        "topic": "Ethics and Leadership",
+        "question": "Which statement best describes the basis for neutral staff recommendations?",
+        "options": {
+          "A": "Neutrality bases recommendations on facts, merit and operational requirements.",
+          "B": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "C": "The statement applies only when the commander is absent and has no wider staff relevance.",
+          "D": "Neutrality bases recommendations on personal preference and favouritism."
+        },
+        "answer": "A",
+        "explanation": "The lecture material states: Neutrality bases recommendations on facts, merit and operational requirements."
+      },
+      {
+        "id": "MCQ054",
+        "topic": "Power and Authority",
+        "question": "Which statement best describes the status of military power?",
+        "options": {
+          "A": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "B": "Military power is never owned; it is permanently owned for responsible service.",
+          "C": "Military power is not never owned; it is temporarily entrusted for responsible service.",
+          "D": "Military power is never owned; it is temporarily entrusted for responsible service."
+        },
+        "answer": "D",
+        "explanation": "The lecture material states: Military power is never owned; it is temporarily entrusted for responsible service."
+      },
+      {
+        "id": "MCQ055",
+        "topic": "Power and Authority",
+        "question": "Which statement best describes the purpose of military privileges?",
+        "options": {
+          "A": "Privileges support effective service delivery and are not rewards for personal superiority.",
+          "B": "Privileges support effective service delivery and are not not rewards for personal superiority.",
+          "C": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "D": "Privileges support effective service delivery and are  rewards for personal superiority."
+        },
+        "answer": "A",
+        "explanation": "The lecture material states: Privileges support effective service delivery and are not rewards for personal superiority."
+      },
+      {
+        "id": "MCQ056",
+        "topic": "Power and Authority",
+        "question": "Which statement best describes an example of abuse of access?",
+        "options": {
+          "A": "Abuse of access may involve using government resources or personnel for personal benefit.",
+          "B": "The statement applies only when the commander is absent and has no wider staff relevance.",
+          "C": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "D": "The statement places individual preference above established institutional requirements."
+        },
+        "answer": "A",
+        "explanation": "The lecture material states: Abuse of access may involve using government resources or personnel for personal benefit."
+      },
+      {
+        "id": "MCQ057",
+        "topic": "Power and Authority",
+        "question": "Which statement best describes the organisational consequences of power abuse?",
+        "options": {
+          "A": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "B": "Power abuse can cause high morale and stronger public trust.",
+          "C": "The statement applies only when the commander is absent and has no wider staff relevance.",
+          "D": "Power abuse can cause low morale and damage public trust."
+        },
+        "answer": "D",
+        "explanation": "The lecture material states: Power abuse can cause low morale and damage public trust."
+      },
+      {
+        "id": "MCQ058",
+        "topic": "Culture of Standards",
+        "question": "Which statement best describes the meaning of standards?",
+        "options": {
+          "A": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "B": "Standards are establis nothed levels of quality, procedures, conduct, performance or expectations.",
+          "C": "Standards are not established levels of quality, procedures, conduct, performance or expectations.",
+          "D": "Standards are established levels of quality, procedures, conduct, performance or expectations."
+        },
+        "answer": "D",
+        "explanation": "The lecture material states: Standards are established levels of quality, procedures, conduct, performance or expectations."
+      },
+      {
+        "id": "MCQ059",
+        "topic": "Culture of Standards",
+        "question": "Which statement best describes the organisational benefits of standards?",
+        "options": {
+          "A": "Standards promote consis nottency, predictability, reliability and excellence.",
+          "B": "Standards promote inconsistency, unpredictability and personal preference.",
+          "C": "Standards undermine consistency, predictability, reliability and excellence.",
+          "D": "Standards promote consistency, predictability, reliability and excellence."
+        },
+        "answer": "D",
+        "explanation": "The lecture material states: Standards promote consistency, predictability, reliability and excellence."
+      },
+      {
+        "id": "MCQ060",
+        "topic": "Culture of Standards",
+        "question": "Which statement best describes why military standards are critical?",
+        "options": {
+          "A": "Military standards are critical because the profession of arms directly involves human lives.",
+          "B": "Military standards are not critical because the profession of arms directly involves human lives.",
+          "C": "The statement is limited to routine administration and does not apply to operational effectiveness.",
+          "D": "Military standards are critical because the profession of arms directly excludes human lives."
+        },
+        "answer": "A",
+        "explanation": "The lecture material states: Military standards are critical because the profession of arms directly involves human lives."
+      }
+    ],
+    "true_false": [
+      {
+        "id": "TF001",
+        "topic": "Staff Officer",
+        "question": "A staff officer supports, advises, coordinates and enables command.",
+        "answer": true,
+        "explanation": "True. A staff officer supports, advises, coordinates and enables command."
+      },
+      {
+        "id": "TF002",
+        "topic": "Staff Officer",
+        "question": "Decision support does not include interpreting command intent, managing information and analysing options.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Decision support includes interpreting command intent, managing information and analysing options."
+      },
+      {
+        "id": "TF003",
+        "topic": "Staff Officer",
+        "question": "Administrative governance maintains efficiency, accountability and compliance.",
+        "answer": true,
+        "explanation": "True. Administrative governance maintains efficiency, accountability and compliance."
+      },
+      {
+        "id": "TF004",
+        "topic": "Staff Officer",
+        "question": "The four pillars are not mindset, ethics, systems thinking and situational mastery.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: The four pillars are mindset, ethics, systems thinking and situational mastery."
+      },
+      {
+        "id": "TF005",
+        "topic": "Staff Officer",
+        "question": "Anticipation means thinking ahead and foreseeing emerging requirements.",
+        "answer": true,
+        "explanation": "True. Anticipation means thinking ahead and foreseeing emerging requirements."
+      },
+      {
+        "id": "TF006",
+        "topic": "Staff Officer",
+        "question": "Attention to detail recognises that small errors cannot have operational consequences.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Attention to detail recognises that small errors can have operational consequences."
+      },
+      {
+        "id": "TF007",
+        "topic": "Staff Officer",
+        "question": "Situational mastery requires awareness, adaptability, timely judgement, prioritisation and foresight.",
+        "answer": true,
+        "explanation": "True. Situational mastery requires awareness, adaptability, timely judgement, prioritisation and foresight."
+      },
+      {
+        "id": "TF008",
+        "topic": "C4I",
+        "question": "It is incorrect that staff officers support command through planning, coordination, information management, communication and decision support.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Staff officers support command through planning, coordination, information management, communication and decision support."
+      },
+      {
+        "id": "TF009",
+        "topic": "C4I",
+        "question": "The staff officer strengthens command rather than competing with it.",
+        "answer": true,
+        "explanation": "True. The staff officer strengthens command rather than competing with it."
+      },
+      {
+        "id": "TF010",
+        "topic": "C4I",
+        "question": "It is incorrect that poor control creates surprises, confusion, wastage and embarrassment.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Poor control creates surprises, confusion, wastage and embarrassment."
+      },
+      {
+        "id": "TF011",
+        "topic": "Ethics and Leadership",
+        "question": "Leadership influences people and improves organisations through competence, character, professionalism and moral example.",
+        "answer": true,
+        "explanation": "True. Leadership influences people and improves organisations through competence, character, professionalism and moral example."
+      },
+      {
+        "id": "TF012",
+        "topic": "Ethics and Leadership",
+        "question": "It is incorrect that confidentiality means keeping official and sensitive information secret.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Confidentiality means keeping official and sensitive information secret."
+      },
+      {
+        "id": "TF013",
+        "topic": "Ethics and Leadership",
+        "question": "Neutrality bases recommendations on facts, merit and operational requirements.",
+        "answer": true,
+        "explanation": "True. Neutrality bases recommendations on facts, merit and operational requirements."
+      },
+      {
+        "id": "TF014",
+        "topic": "Power and Authority",
+        "question": "Military power is not never owned; it is temporarily entrusted for responsible service.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Military power is never owned; it is temporarily entrusted for responsible service."
+      },
+      {
+        "id": "TF015",
+        "topic": "Power and Authority",
+        "question": "Privileges support effective service delivery and are not rewards for personal superiority.",
+        "answer": true,
+        "explanation": "True. Privileges support effective service delivery and are not rewards for personal superiority."
+      },
+      {
+        "id": "TF016",
+        "topic": "Power and Authority",
+        "question": "It is incorrect that abuse of access may involve using government resources or personnel for personal benefit.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Abuse of access may involve using government resources or personnel for personal benefit."
+      },
+      {
+        "id": "TF017",
+        "topic": "Power and Authority",
+        "question": "Power abuse can cause low morale and damage public trust.",
+        "answer": true,
+        "explanation": "True. Power abuse can cause low morale and damage public trust."
+      },
+      {
+        "id": "TF018",
+        "topic": "Culture of Standards",
+        "question": "Standards are not established levels of quality, procedures, conduct, performance or expectations.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Standards are established levels of quality, procedures, conduct, performance or expectations."
+      },
+      {
+        "id": "TF019",
+        "topic": "Culture of Standards",
+        "question": "Standards promote consistency, predictability, reliability and excellence.",
+        "answer": true,
+        "explanation": "True. Standards promote consistency, predictability, reliability and excellence."
+      },
+      {
+        "id": "TF020",
+        "topic": "Culture of Standards",
+        "question": "Military standards are not critical because the profession of arms directly involves human lives.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Military standards are critical because the profession of arms directly involves human lives."
+      },
+      {
+        "id": "TF021",
+        "topic": "Systems Thinking",
+        "question": "Systems thinking sees wholes, patterns and interrelationships rather than isolated events.",
+        "answer": true,
+        "explanation": "True. Systems thinking sees wholes, patterns and interrelationships rather than isolated events."
+      },
+      {
+        "id": "TF022",
+        "topic": "Systems Thinking",
+        "question": "The seven disabilities are I am my position; the enemy is not out there; fixation on events; delusion of learning from experience; illusion of taking charge; boiled frog; myth of the management team.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: The seven disabilities are I am my position; the enemy is out there; fixation on events; delusion of learning from experience; illusion of taking charge; boiled frog; myth of the management team."
+      },
+      {
+        "id": "TF023",
+        "topic": "Systems Thinking",
+        "question": "Fixation on events is tactical near-sightedness that treats events as disconnected moments.",
+        "answer": true,
+        "explanation": "True. Fixation on events is tactical near-sightedness that treats events as disconnected moments."
+      },
+      {
+        "id": "TF024",
+        "topic": "Systems Thinking",
+        "question": "The boiled frog describes failure to notice gradual changes until it is not too late.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: The boiled frog describes failure to notice gradual changes until it is too late."
+      },
+      {
+        "id": "TF025",
+        "topic": "Systems Thinking",
+        "question": "Senge's five disciplines are personal mastery, mental models, shared vision, team learning and systems thinking.",
+        "answer": true,
+        "explanation": "True. Senge's five disciplines are personal mastery, mental models, shared vision, team learning and systems thinking."
+      },
+      {
+        "id": "TF026",
+        "topic": "Systems Thinking",
+        "question": "It is incorrect that event explanations ask who did what; pattern explanations examine trends; structural explanations identify underlying causes.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Event explanations ask who did what; pattern explanations examine trends; structural explanations identify underlying causes."
+      },
+      {
+        "id": "TF027",
+        "topic": "Managed System",
+        "question": "A managed system is a structured set of policies, processes and procedures guiding activities towards missions and objectives.",
+        "answer": true,
+        "explanation": "True. A managed system is a structured set of policies, processes and procedures guiding activities towards missions and objectives."
+      },
+      {
+        "id": "TF028",
+        "topic": "Managed System",
+        "question": "Inputs are policies; processes convert inputs to outputs; outputs are procedures; feedback is not review.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Inputs are policies; processes convert inputs to outputs; outputs are procedures; feedback is review."
+      },
+      {
+        "id": "TF029",
+        "topic": "Managed System",
+        "question": "General Systems Theory views an entity as an integrated whole of interconnected parts.",
+        "answer": true,
+        "explanation": "True. General Systems Theory views an entity as an integrated whole of interconnected parts."
+      },
+      {
+        "id": "TF030",
+        "topic": "Managed System",
+        "question": "It is incorrect that an open system exchanges information, energy and matter with its environment.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: An open system exchanges information, energy and matter with its environment."
+      },
+      {
+        "id": "TF031",
+        "topic": "Managed System",
+        "question": "Mechanistic organisations emphasise efficiency, predictability, control, centralisation and formal rules.",
+        "answer": true,
+        "explanation": "True. Mechanistic organisations emphasise efficiency, predictability, control, centralisation and formal rules."
+      },
+      {
+        "id": "TF032",
+        "topic": "Managed System",
+        "question": "It is incorrect that team of Teams blends traditional military discipline with decentralised network agility.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Team of Teams blends traditional military discipline with decentralised network agility."
+      },
+      {
+        "id": "TF033",
+        "topic": "National Security",
+        "question": "National security is not the exclusive responsibility of the Armed Forces.",
+        "answer": true,
+        "explanation": "True. National security is not the exclusive responsibility of the Armed Forces."
+      },
+      {
+        "id": "TF034",
+        "topic": "National Security",
+        "question": "Weak intelligence cannot undermine military strength.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Weak intelligence can undermine military strength."
+      },
+      {
+        "id": "TF035",
+        "topic": "National Security",
+        "question": "Contemporary security threats require multidimensional solutions.",
+        "answer": true,
+        "explanation": "True. Contemporary security threats require multidimensional solutions."
+      },
+      {
+        "id": "TF036",
+        "topic": "National Security",
+        "question": "National security architecture does not include political leadership, the military, security and intelligence agencies, civil-military relations and inter-agency coordination.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: National security architecture includes political leadership, the military, security and intelligence agencies, civil-military relations and inter-agency coordination."
+      },
+      {
+        "id": "TF037",
+        "topic": "Situational Awareness",
+        "question": "Perception is noticing what is happening in the environment.",
+        "answer": true,
+        "explanation": "True. Perception is noticing what is happening in the environment."
+      },
+      {
+        "id": "TF038",
+        "topic": "Situational Awareness",
+        "question": "Situational awareness asks what is not happening, why it is happening and what is likely next.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Situational awareness asks what is happening, why it is happening and what is likely next."
+      },
+      {
+        "id": "TF039",
+        "topic": "Situational Awareness",
+        "question": "Situational awareness extends to offices, headquarters, logistics hubs, workshops, stores, barracks and training institutions.",
+        "answer": true,
+        "explanation": "True. Situational awareness extends to offices, headquarters, logistics hubs, workshops, stores, barracks and training institutions."
+      },
+      {
+        "id": "TF040",
+        "topic": "Situational Awareness",
+        "question": "It is incorrect that effective staff officers detect patterns and anomalies, understand behaviour, identify risks and advise commanders.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Effective staff officers detect patterns and anomalies, understand behaviour, identify risks and advise commanders."
+      },
+      {
+        "id": "TF041",
+        "topic": "Staff Officer",
+        "question": "A staff officer supports, advises, coordinates and enables command.",
+        "answer": true,
+        "explanation": "True. A staff officer supports, advises, coordinates and enables command."
+      },
+      {
+        "id": "TF042",
+        "topic": "Staff Officer",
+        "question": "Decision support does not include interpreting command intent, managing information and analysing options.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Decision support includes interpreting command intent, managing information and analysing options."
+      },
+      {
+        "id": "TF043",
+        "topic": "Staff Officer",
+        "question": "Administrative governance maintains efficiency, accountability and compliance.",
+        "answer": true,
+        "explanation": "True. Administrative governance maintains efficiency, accountability and compliance."
+      },
+      {
+        "id": "TF044",
+        "topic": "Staff Officer",
+        "question": "The four pillars are not mindset, ethics, systems thinking and situational mastery.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: The four pillars are mindset, ethics, systems thinking and situational mastery."
+      },
+      {
+        "id": "TF045",
+        "topic": "Staff Officer",
+        "question": "Anticipation means thinking ahead and foreseeing emerging requirements.",
+        "answer": true,
+        "explanation": "True. Anticipation means thinking ahead and foreseeing emerging requirements."
+      },
+      {
+        "id": "TF046",
+        "topic": "Staff Officer",
+        "question": "Attention to detail recognises that small errors cannot have operational consequences.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Attention to detail recognises that small errors can have operational consequences."
+      },
+      {
+        "id": "TF047",
+        "topic": "Staff Officer",
+        "question": "Situational mastery requires awareness, adaptability, timely judgement, prioritisation and foresight.",
+        "answer": true,
+        "explanation": "True. Situational mastery requires awareness, adaptability, timely judgement, prioritisation and foresight."
+      },
+      {
+        "id": "TF048",
+        "topic": "C4I",
+        "question": "It is incorrect that staff officers support command through planning, coordination, information management, communication and decision support.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Staff officers support command through planning, coordination, information management, communication and decision support."
+      },
+      {
+        "id": "TF049",
+        "topic": "C4I",
+        "question": "The staff officer strengthens command rather than competing with it.",
+        "answer": true,
+        "explanation": "True. The staff officer strengthens command rather than competing with it."
+      },
+      {
+        "id": "TF050",
+        "topic": "C4I",
+        "question": "It is incorrect that poor control creates surprises, confusion, wastage and embarrassment.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Poor control creates surprises, confusion, wastage and embarrassment."
+      },
+      {
+        "id": "TF051",
+        "topic": "Ethics and Leadership",
+        "question": "Leadership influences people and improves organisations through competence, character, professionalism and moral example.",
+        "answer": true,
+        "explanation": "True. Leadership influences people and improves organisations through competence, character, professionalism and moral example."
+      },
+      {
+        "id": "TF052",
+        "topic": "Ethics and Leadership",
+        "question": "It is incorrect that confidentiality means keeping official and sensitive information secret.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Confidentiality means keeping official and sensitive information secret."
+      },
+      {
+        "id": "TF053",
+        "topic": "Ethics and Leadership",
+        "question": "Neutrality bases recommendations on facts, merit and operational requirements.",
+        "answer": true,
+        "explanation": "True. Neutrality bases recommendations on facts, merit and operational requirements."
+      },
+      {
+        "id": "TF054",
+        "topic": "Power and Authority",
+        "question": "Military power is not never owned; it is temporarily entrusted for responsible service.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Military power is never owned; it is temporarily entrusted for responsible service."
+      },
+      {
+        "id": "TF055",
+        "topic": "Power and Authority",
+        "question": "Privileges support effective service delivery and are not rewards for personal superiority.",
+        "answer": true,
+        "explanation": "True. Privileges support effective service delivery and are not rewards for personal superiority."
+      },
+      {
+        "id": "TF056",
+        "topic": "Power and Authority",
+        "question": "It is incorrect that abuse of access may involve using government resources or personnel for personal benefit.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Abuse of access may involve using government resources or personnel for personal benefit."
+      },
+      {
+        "id": "TF057",
+        "topic": "Power and Authority",
+        "question": "Power abuse can cause low morale and damage public trust.",
+        "answer": true,
+        "explanation": "True. Power abuse can cause low morale and damage public trust."
+      },
+      {
+        "id": "TF058",
+        "topic": "Culture of Standards",
+        "question": "Standards are not established levels of quality, procedures, conduct, performance or expectations.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Standards are established levels of quality, procedures, conduct, performance or expectations."
+      },
+      {
+        "id": "TF059",
+        "topic": "Culture of Standards",
+        "question": "Standards promote consistency, predictability, reliability and excellence.",
+        "answer": true,
+        "explanation": "True. Standards promote consistency, predictability, reliability and excellence."
+      },
+      {
+        "id": "TF060",
+        "topic": "Culture of Standards",
+        "question": "Military standards are not critical because the profession of arms directly involves human lives.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Military standards are critical because the profession of arms directly involves human lives."
+      }
+    ],
+    "fill_in_gap": [
+      {
+        "id": "FG001",
+        "topic": "Staff Officer",
+        "question": "__________ supports, advises, coordinates and enables command.",
+        "answer": "A staff officer",
+        "explanation": "A staff officer supports, advises, coordinates and enables command."
+      },
+      {
+        "id": "FG002",
+        "topic": "Staff Officer",
+        "question": "__________ includes interpreting command intent, managing information and analysing options.",
+        "answer": "Decision support",
+        "explanation": "Decision support includes interpreting command intent, managing information and analysing options."
+      },
+      {
+        "id": "FG003",
+        "topic": "Staff Officer",
+        "question": "Administrative governance maintains efficiency, __________ and compliance.",
+        "answer": "accountability",
+        "explanation": "Administrative governance maintains efficiency, accountability and compliance."
+      },
+      {
+        "id": "FG004",
+        "topic": "Staff Officer",
+        "question": "The four pillars are __________, ethics, systems thinking and situational mastery.",
+        "answer": "mindset",
+        "explanation": "The four pillars are mindset, ethics, systems thinking and situational mastery."
+      },
+      {
+        "id": "FG005",
+        "topic": "Staff Officer",
+        "question": "__________ means thinking ahead and foreseeing emerging requirements.",
+        "answer": "Anticipation",
+        "explanation": "Anticipation means thinking ahead and foreseeing emerging requirements."
+      },
+      {
+        "id": "FG006",
+        "topic": "Staff Officer",
+        "question": "__________ recognises that small errors can have operational consequences.",
+        "answer": "Attention to detail",
+        "explanation": "Attention to detail recognises that small errors can have operational consequences."
+      },
+      {
+        "id": "FG007",
+        "topic": "Staff Officer",
+        "question": "__________ requires awareness, adaptability, timely judgement, prioritisation and foresight.",
+        "answer": "Situational mastery",
+        "explanation": "Situational mastery requires awareness, adaptability, timely judgement, prioritisation and foresight."
+      },
+      {
+        "id": "FG008",
+        "topic": "C4I",
+        "question": "Staff officers support command through __________, coordination, information management, communication and decision support.",
+        "answer": "planning",
+        "explanation": "Staff officers support command through planning, coordination, information management, communication and decision support."
+      },
+      {
+        "id": "FG009",
+        "topic": "C4I",
+        "question": "The staff officer strengthens command rather than competing w__________h __________.",
+        "answer": "it",
+        "explanation": "The staff officer strengthens command rather than competing with it."
+      },
+      {
+        "id": "FG010",
+        "topic": "C4I",
+        "question": "Poor control creates surprises, confusion, wastage and __________.",
+        "answer": "embarrassment",
+        "explanation": "Poor control creates surprises, confusion, wastage and embarrassment."
+      },
+      {
+        "id": "FG011",
+        "topic": "Ethics and Leadership",
+        "question": "Leadership influences people and improves organisations through __________, character, professionalism and moral example.",
+        "answer": "competence",
+        "explanation": "Leadership influences people and improves organisations through competence, character, professionalism and moral example."
+      },
+      {
+        "id": "FG012",
+        "topic": "Ethics and Leadership",
+        "question": "__________ means keeping official and sensitive information secret.",
+        "answer": "Confidentiality",
+        "explanation": "Confidentiality means keeping official and sensitive information secret."
+      },
+      {
+        "id": "FG013",
+        "topic": "Ethics and Leadership",
+        "question": "__________ bases recommendations on facts, merit and operational requirements.",
+        "answer": "Neutrality",
+        "explanation": "Neutrality bases recommendations on facts, merit and operational requirements."
+      },
+      {
+        "id": "FG014",
+        "topic": "Power and Authority",
+        "question": "__________ is never owned; it is temporarily entrusted for responsible service.",
+        "answer": "Military power",
+        "explanation": "Military power is never owned; it is temporarily entrusted for responsible service."
+      },
+      {
+        "id": "FG015",
+        "topic": "Power and Authority",
+        "question": "__________ are not rewards for personal superiority.",
+        "answer": "Privileges support effective service delivery and",
+        "explanation": "Privileges support effective service delivery and are not rewards for personal superiority."
+      },
+      {
+        "id": "FG016",
+        "topic": "Power and Authority",
+        "question": "Abuse of access may involve using government resources or personnel for personal __________.",
+        "answer": "benefit",
+        "explanation": "Abuse of access may involve using government resources or personnel for personal benefit."
+      },
+      {
+        "id": "FG017",
+        "topic": "Power and Authority",
+        "question": "Power abuse can cause low __________ and damage public trust.",
+        "answer": "morale",
+        "explanation": "Power abuse can cause low morale and damage public trust."
+      },
+      {
+        "id": "FG018",
+        "topic": "Culture of Standards",
+        "question": "__________ are established levels of quality, procedures, conduct, performance or expectations.",
+        "answer": "Standards",
+        "explanation": "Standards are established levels of quality, procedures, conduct, performance or expectations."
+      },
+      {
+        "id": "FG019",
+        "topic": "Culture of Standards",
+        "question": "__________ promote consistency, predictability, reliability and excellence.",
+        "answer": "Standards",
+        "explanation": "Standards promote consistency, predictability, reliability and excellence."
+      },
+      {
+        "id": "FG020",
+        "topic": "Culture of Standards",
+        "question": "Military __________ are critical because the profession of arms directly involves human lives.",
+        "answer": "standards",
+        "explanation": "Military standards are critical because the profession of arms directly involves human lives."
+      },
+      {
+        "id": "FG021",
+        "topic": "Systems Thinking",
+        "question": "__________ sees wholes, patterns and interrelationships rather than isolated events.",
+        "answer": "Systems thinking",
+        "explanation": "Systems thinking sees wholes, patterns and interrelationships rather than isolated events."
+      },
+      {
+        "id": "FG022",
+        "topic": "Systems Thinking",
+        "question": "__________ are I am my position; the enemy is out there; fixation on events; delusion of learning from experience; illusion of taking charge; boiled frog; myth of the management team.",
+        "answer": "The seven disabilities",
+        "explanation": "The seven disabilities are I am my position; the enemy is out there; fixation on events; delusion of learning from experience; illusion of taking charge; boiled frog; myth of the management team."
+      },
+      {
+        "id": "FG023",
+        "topic": "Systems Thinking",
+        "question": "__________ is tactical near-sightedness that treats events as disconnected moments.",
+        "answer": "Fixation on events",
+        "explanation": "Fixation on events is tactical near-sightedness that treats events as disconnected moments."
+      },
+      {
+        "id": "FG024",
+        "topic": "Systems Thinking",
+        "question": "The boiled frog describes failure to notice gradual changes until it is too __________.",
+        "answer": "late",
+        "explanation": "The boiled frog describes failure to notice gradual changes until it is too late."
+      },
+      {
+        "id": "FG025",
+        "topic": "Systems Thinking",
+        "question": "Senge's five disciplines are personal mastery, mental models, shared vision, team learning and __________.",
+        "answer": "systems thinking",
+        "explanation": "Senge's five disciplines are personal mastery, mental models, shared vision, team learning and systems thinking."
+      },
+      {
+        "id": "FG026",
+        "topic": "Systems Thinking",
+        "question": "Event explanations ask who did what; pattern explanations examine trends; structural explanations identify underlying __________.",
+        "answer": "causes",
+        "explanation": "Event explanations ask who did what; pattern explanations examine trends; structural explanations identify underlying causes."
+      },
+      {
+        "id": "FG027",
+        "topic": "Managed System",
+        "question": "__________ is a structured set of policies, processes and procedures guiding activities towards missions and objectives.",
+        "answer": "A managed system",
+        "explanation": "A managed system is a structured set of policies, processes and procedures guiding activities towards missions and objectives."
+      },
+      {
+        "id": "FG028",
+        "topic": "Managed System",
+        "question": "Inputs are policies; processes convert inputs to outputs; outputs are procedures; __________ is review.",
+        "answer": "feedback",
+        "explanation": "Inputs are policies; processes convert inputs to outputs; outputs are procedures; feedback is review."
+      },
+      {
+        "id": "FG029",
+        "topic": "Managed System",
+        "question": "General Systems Theory views an entity as an integrated whole of interconnected __________.",
+        "answer": "parts",
+        "explanation": "General Systems Theory views an entity as an integrated whole of interconnected parts."
+      },
+      {
+        "id": "FG030",
+        "topic": "Managed System",
+        "question": "An __________ exchanges information, energy and matter with its environment.",
+        "answer": "open system",
+        "explanation": "An open system exchanges information, energy and matter with its environment."
+      },
+      {
+        "id": "FG031",
+        "topic": "Managed System",
+        "question": "Mechanistic organisations emphasise efficiency, predictability, control, centralisation and formal __________.",
+        "answer": "rules",
+        "explanation": "Mechanistic organisations emphasise efficiency, predictability, control, centralisation and formal rules."
+      },
+      {
+        "id": "FG032",
+        "topic": "Managed System",
+        "question": "__________ blends traditional military discipline with decentralised network agility.",
+        "answer": "Team of Teams",
+        "explanation": "Team of Teams blends traditional military discipline with decentralised network agility."
+      },
+      {
+        "id": "FG033",
+        "topic": "National Security",
+        "question": "__________ is not the exclusive responsibility of the Armed Forces.",
+        "answer": "National security",
+        "explanation": "National security is not the exclusive responsibility of the Armed Forces."
+      },
+      {
+        "id": "FG034",
+        "topic": "National Security",
+        "question": "__________ can undermine military strength.",
+        "answer": "Weak intelligence",
+        "explanation": "Weak intelligence can undermine military strength."
+      },
+      {
+        "id": "FG035",
+        "topic": "National Security",
+        "question": "Contemporary security threats require multidimensional __________.",
+        "answer": "solutions",
+        "explanation": "Contemporary security threats require multidimensional solutions."
+      },
+      {
+        "id": "FG036",
+        "topic": "National Security",
+        "question": "National security architecture includes political leadership, the military, security and intelligence agencies, civil-military relations and __________.",
+        "answer": "inter-agency coordination",
+        "explanation": "National security architecture includes political leadership, the military, security and intelligence agencies, civil-military relations and inter-agency coordination."
+      },
+      {
+        "id": "FG037",
+        "topic": "Situational Awareness",
+        "question": "__________ is noticing what is happening in the environment.",
+        "answer": "Perception",
+        "explanation": "Perception is noticing what is happening in the environment."
+      },
+      {
+        "id": "FG038",
+        "topic": "Situational Awareness",
+        "question": "__________ is happening, why it is happening and what is likely next.",
+        "answer": "Situational awareness asks what",
+        "explanation": "Situational awareness asks what is happening, why it is happening and what is likely next."
+      },
+      {
+        "id": "FG039",
+        "topic": "Situational Awareness",
+        "question": "Situational awareness extends to offices, headquarters, logistics hubs, workshops, stores, barracks and training __________.",
+        "answer": "institutions",
+        "explanation": "Situational awareness extends to offices, headquarters, logistics hubs, workshops, stores, barracks and training institutions."
+      },
+      {
+        "id": "FG040",
+        "topic": "Situational Awareness",
+        "question": "Effective staff officers detect patterns and anomalies, understand behaviour, identify risks and advise __________.",
+        "answer": "commanders",
+        "explanation": "Effective staff officers detect patterns and anomalies, understand behaviour, identify risks and advise commanders."
+      },
+      {
+        "id": "FG041",
+        "topic": "Staff Officer",
+        "question": "__________ supports, advises, coordinates and enables command.",
+        "answer": "A staff officer",
+        "explanation": "A staff officer supports, advises, coordinates and enables command."
+      },
+      {
+        "id": "FG042",
+        "topic": "Staff Officer",
+        "question": "__________ includes interpreting command intent, managing information and analysing options.",
+        "answer": "Decision support",
+        "explanation": "Decision support includes interpreting command intent, managing information and analysing options."
+      },
+      {
+        "id": "FG043",
+        "topic": "Staff Officer",
+        "question": "Administrative governance maintains efficiency, __________ and compliance.",
+        "answer": "accountability",
+        "explanation": "Administrative governance maintains efficiency, accountability and compliance."
+      },
+      {
+        "id": "FG044",
+        "topic": "Staff Officer",
+        "question": "The four pillars are __________, ethics, systems thinking and situational mastery.",
+        "answer": "mindset",
+        "explanation": "The four pillars are mindset, ethics, systems thinking and situational mastery."
+      },
+      {
+        "id": "FG045",
+        "topic": "Staff Officer",
+        "question": "__________ means thinking ahead and foreseeing emerging requirements.",
+        "answer": "Anticipation",
+        "explanation": "Anticipation means thinking ahead and foreseeing emerging requirements."
+      },
+      {
+        "id": "FG046",
+        "topic": "Staff Officer",
+        "question": "__________ recognises that small errors can have operational consequences.",
+        "answer": "Attention to detail",
+        "explanation": "Attention to detail recognises that small errors can have operational consequences."
+      },
+      {
+        "id": "FG047",
+        "topic": "Staff Officer",
+        "question": "__________ requires awareness, adaptability, timely judgement, prioritisation and foresight.",
+        "answer": "Situational mastery",
+        "explanation": "Situational mastery requires awareness, adaptability, timely judgement, prioritisation and foresight."
+      },
+      {
+        "id": "FG048",
+        "topic": "C4I",
+        "question": "Staff officers support command through __________, coordination, information management, communication and decision support.",
+        "answer": "planning",
+        "explanation": "Staff officers support command through planning, coordination, information management, communication and decision support."
+      },
+      {
+        "id": "FG049",
+        "topic": "C4I",
+        "question": "The staff officer strengthens command rather than competing w__________h __________.",
+        "answer": "it",
+        "explanation": "The staff officer strengthens command rather than competing with it."
+      },
+      {
+        "id": "FG050",
+        "topic": "C4I",
+        "question": "Poor control creates surprises, confusion, wastage and __________.",
+        "answer": "embarrassment",
+        "explanation": "Poor control creates surprises, confusion, wastage and embarrassment."
+      },
+      {
+        "id": "FG051",
+        "topic": "Ethics and Leadership",
+        "question": "Leadership influences people and improves organisations through __________, character, professionalism and moral example.",
+        "answer": "competence",
+        "explanation": "Leadership influences people and improves organisations through competence, character, professionalism and moral example."
+      },
+      {
+        "id": "FG052",
+        "topic": "Ethics and Leadership",
+        "question": "__________ means keeping official and sensitive information secret.",
+        "answer": "Confidentiality",
+        "explanation": "Confidentiality means keeping official and sensitive information secret."
+      },
+      {
+        "id": "FG053",
+        "topic": "Ethics and Leadership",
+        "question": "__________ bases recommendations on facts, merit and operational requirements.",
+        "answer": "Neutrality",
+        "explanation": "Neutrality bases recommendations on facts, merit and operational requirements."
+      },
+      {
+        "id": "FG054",
+        "topic": "Power and Authority",
+        "question": "__________ is never owned; it is temporarily entrusted for responsible service.",
+        "answer": "Military power",
+        "explanation": "Military power is never owned; it is temporarily entrusted for responsible service."
+      },
+      {
+        "id": "FG055",
+        "topic": "Power and Authority",
+        "question": "__________ are not rewards for personal superiority.",
+        "answer": "Privileges support effective service delivery and",
+        "explanation": "Privileges support effective service delivery and are not rewards for personal superiority."
+      },
+      {
+        "id": "FG056",
+        "topic": "Power and Authority",
+        "question": "Abuse of access may involve using government resources or personnel for personal __________.",
+        "answer": "benefit",
+        "explanation": "Abuse of access may involve using government resources or personnel for personal benefit."
+      },
+      {
+        "id": "FG057",
+        "topic": "Power and Authority",
+        "question": "Power abuse can cause low __________ and damage public trust.",
+        "answer": "morale",
+        "explanation": "Power abuse can cause low morale and damage public trust."
+      },
+      {
+        "id": "FG058",
+        "topic": "Culture of Standards",
+        "question": "__________ are established levels of quality, procedures, conduct, performance or expectations.",
+        "answer": "Standards",
+        "explanation": "Standards are established levels of quality, procedures, conduct, performance or expectations."
+      },
+      {
+        "id": "FG059",
+        "topic": "Culture of Standards",
+        "question": "__________ promote consistency, predictability, reliability and excellence.",
+        "answer": "Standards",
+        "explanation": "Standards promote consistency, predictability, reliability and excellence."
+      },
+      {
+        "id": "FG060",
+        "topic": "Culture of Standards",
+        "question": "Military __________ are critical because the profession of arms directly involves human lives.",
+        "answer": "standards",
+        "explanation": "Military standards are critical because the profession of arms directly involves human lives."
+      }
+    ]
+  }
+}
